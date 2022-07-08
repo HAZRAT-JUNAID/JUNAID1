@@ -1,2 +1,2 @@
-from JUNAID import ZEEKO
+from JUNAID1 import ZEEKO
 ZEEKO()
